@@ -1,0 +1,5 @@
+{{#user}}
+Name: Priyadarshini
+Skills: HTML, CSS, JS, Next.js, React.js
+Email: priyagowda.cs@gmail.com
+{{/user}}
